@@ -2,3 +2,8 @@
 
 this is the sample data
 This is the updated data for the git demo
+## this is the updation that is performed in the visual studio code
+## this is the local development
+
+1. open index.html in your browser
+2. another more data to be committed
